@@ -2,7 +2,7 @@
 **Ingredientes:**
 * 4 huevos
 * Patatas
-* Cebolla
+* Cebolla (no es obligatoria)
 * Aceite de oliva
 * Sal
 
